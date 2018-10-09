@@ -15,5 +15,8 @@ Example of converting a UML Class diagram to C++ class
   * Class (i.e. static) methods and fields are indicated by underlining
   * Constant (i.e. final) fields are indicated via naming convention: constants should be in ALL_CAPS
   
-  ## Example: Student UML Class diagram
-  
+## Example: Student UML Class diagram
+![student](https://user-images.githubusercontent.com/41892175/46647243-97c1fe80-cbc1-11e8-8287-f6559ee43fb8.png)
+
+## Corresponding C++ Class
+
