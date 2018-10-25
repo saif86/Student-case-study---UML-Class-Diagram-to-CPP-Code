@@ -1,4 +1,4 @@
-# UML-Class-Diagram-to-CPP-Code
+# Student case study
 Example of converting a UML Class diagram to C++ class
 
 ## UML Class Diagram
